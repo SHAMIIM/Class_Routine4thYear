@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Class_Routine (4th Year)</string>
+    <string name="satid">SaturDay</string>
+    <string name="sunid">SunDay</string>
+    <string name="monid">MonDay</string>
+    <string name="tueid">TuesDay</string>
+    <string name="wedid">WednesDay</string>
+    <string name="textid">4th Year Class Routine.</string>
+    <string name="btnid">choose</string>
+
+
+</resources>

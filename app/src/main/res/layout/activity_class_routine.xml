@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".class_routine"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#5B9">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SaturDay"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:background="#5B9"
+        android:textColor="#95B"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SunDay"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:background="#5B9"
+        android:textColor="#95B"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MonDay"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:background="#5B9"
+        android:textColor="#95B"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="TuesDay"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:background="#5B9"
+        android:textColor="#95B"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="WednesDay"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:background="#5B9"
+        android:textColor="#95B"
+        android:textSize="25sp"/>
+
+</LinearLayout>
